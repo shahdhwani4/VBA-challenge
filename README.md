@@ -13,9 +13,9 @@ Create a script that loops through all the stocks for each quarter and outputs t
 
 
 ### File Structure
-VBA Scripts: VBA scripts for the challenge are under "VBA-scripts" folder.
-Screenshots of the results: screenshots of results running VBA script on alphabetical_testing.xlsx & Multi_year_stock_data.xlsx are under "Screenshots_vba" folder.
-Excel Files: Output excel files are included under "excel-files" folder.
+- VBA Scripts: VBA scripts for the challenge are under "VBA-scripts" folder.
+- Screenshots of the results: screenshots of results running VBA script on alphabetical_testing.xlsx & Multi_year_stock_data.xlsx are under "Screenshots_vba" folder.
+- Excel Files: Output excel files are included under "excel-files" folder.
 
 ### Instructions
 Steps to execute VBA file:
